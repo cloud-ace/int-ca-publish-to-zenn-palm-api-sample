@@ -48,3 +48,4 @@ linux
 macos
 windows
 .czrc
+lib/firebase_options.dart
