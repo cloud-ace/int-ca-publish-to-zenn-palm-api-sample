@@ -1,4 +1,4 @@
-# int-ca-publish-to-zenn-palm-api-sample
+# zenn-palm-api-sample
 ## 公開先ブログタイトル
 - [Firebase Extensions + PaLM API で 要約アプリを作ってみた](https://zenn.dev/cloud_ace/articles/55963031745413)
 
